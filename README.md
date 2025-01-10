@@ -13,7 +13,6 @@
 
   <h3>🌟 Contact 🌟</h3>
   <p>lioba00700@gmail.com</p>
-  ![image](https://github.com/user-attachments/assets/e449d674-1316-4445-837f-9d5831221809)
 
 
 </div>
