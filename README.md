@@ -1,4 +1,6 @@
 <div align='center'>
+
+
   <h1>Park Minseo </h1>
   <h3>🔨 Tech Stack 🔨</h3>
   <img src="https://img.shields.io/badge/react-0088CC?style=round-square&logo=react&logoColor=white"/> 
@@ -11,4 +13,7 @@
 
   <h3>🌟 Contact 🌟</h3>
   <p>lioba00700@gmail.com</p>
+  ![image](https://github.com/user-attachments/assets/e449d674-1316-4445-837f-9d5831221809)
+
+
 </div>
