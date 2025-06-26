@@ -5,7 +5,7 @@
   <h3>Tech Stack</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,figma,html,css,js,c" />
+      <img src="https://skillicons.dev/icons?i=react,figma,html,css,js,ts" />
     </a>
   </p>
   <h3>Contact</h3>
